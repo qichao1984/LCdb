@@ -1,4 +1,6 @@
 # LCdb
+Alternative links containing unzipped database files: https://www.alipan.com/s/Gs62Gxax7ii 
+
 # LCdb: A Curated Functional Gene Database for Metagenomic Profiling of Lignin Catabolism Pathways
 
 Chen, J., Lin, L., Tu, Q., Peng, Q., Wang, X., Liang C., Zhou, J.,and Yu, X., (2023), LCdb: A Curated Functional Gene Database for Metagenomic Profiling of Lignin Catabolism Pathways.
